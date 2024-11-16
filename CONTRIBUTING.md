@@ -1,11 +1,3 @@
-# Tachiyomi Website Contributing Guide
-
-Before submitting your contribution, please make sure to take a moment and read through the following guidelines:
-
-- [Code of Conduct](../CODE_OF_CONDUCT.md)
-- [Development Setup](#development-setup)
-- [Project Structure](#project-structure)
-
 ## Development Setup
 
 You will need [Node.js](http://nodejs.org) **version 20+**, and [pnpm](https://pnpm.io/installation) **version 8+**.
@@ -63,19 +55,6 @@ It is also recommended you lint your files before the PR.
 
 - Resize to have a width of 648px
 
-### Images
 
-- Use `.webp`
 
-### Videos
 
-- Use `.webm` format
-  - Encode it with our [HandBrake profile](./.github/assets/tachiyomi-handbrake-profile.json)
-
-- Remove audio track
-
-## Credits
-
-Thank you to all the people who have already contributed!
-
-[![List of Contributors](https://contrib.rocks/image?repo=tachiyomiorg/website 'List of Contributors')](https://github.com/tachiyomiorg/website/graphs/contributors)
