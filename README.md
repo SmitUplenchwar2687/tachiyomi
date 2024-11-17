@@ -1,6 +1,6 @@
 <p align="center">
 	<br>
-	<a href="https://tachiyomi.org">
+	<a >
 		<img src="./.github/assets/logo.png" width="90"/>
 	</a>
 </p>
